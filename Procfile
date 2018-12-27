@@ -1,0 +1,1 @@
+worker: need bot.js
